@@ -44,7 +44,7 @@
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.4",
     "gulp-uglify-es": "^1.0.0",
-    "i18next": "^10.3.0",
+    "i18next": "^21.5.2",
     "i18next-xhr-backend": "^1.5.1",
     "jquery": "^3.3.1",
     "jquery-i18next": "^1.2.1",
