@@ -35,7 +35,7 @@
     "git-clone": "^0.1.0",
     "gm": "^1.23.1",
     "gulp": "^4.0.0",
-    "gulp-autoprefixer": "^4.1.0",
+    "gulp-autoprefixer": "^8.0.0",
     "gulp-babel": "^8.0.0",
     "gulp-bro": "^1.0.3",
     "gulp-concat": "^2.6.1",
