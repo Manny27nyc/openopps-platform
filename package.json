@@ -34,7 +34,7 @@
     "fs-extra": "^5.0.0",
     "git-clone": "^0.1.0",
     "gm": "^1.23.1",
-    "gulp": "^4.0.0",
+    "gulp": "^5.0.0",
     "gulp-autoprefixer": "^4.1.0",
     "gulp-babel": "^8.0.0",
     "gulp-bro": "^1.0.3",
